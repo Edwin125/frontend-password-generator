@@ -1,4 +1,4 @@
-# co97e4d5ca080a04fc7d5a3fb
+# A simple password generator 
 
 Quick start:
 
